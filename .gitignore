@@ -1,0 +1,12 @@
+# node #
+######################
+node_modules
+package-lock.json
+
+# next js cache #
+######################
+.next
+
+# phpstorrm #
+######################
+.idea
